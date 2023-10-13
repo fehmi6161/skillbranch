@@ -1,0 +1,6 @@
+git merge <branchenaam>
+git checkout<branchenaam/
+git branch <branchnaam>
+git branch -d <local-branch>
+git branch -m <old-name> <new-name>
+git branch --l
